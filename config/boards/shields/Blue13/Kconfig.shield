@@ -1,0 +1,3 @@
+config SHIELD_BLUE13
+	def_bool $(shields_list_contains, blue13)
+	
