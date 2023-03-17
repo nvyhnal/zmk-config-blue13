@@ -51,7 +51,7 @@
     &kp ESC	&none	&none	&none	&none	&none	&trans	&none	&none	&kp BSPC
     &none	&none	&none	&none	&none	&trans	&trans	&trans	&none	
     &none	&none	&none	&none	&none	&none	&none	&none	&none	&none
-    &kp LSHFT	&to 3	&trans	&kp SPACE	&trans	&kp RET
+    &kp LSHFT	&tog 3	&trans	&kp SPACE	&trans	&kp RET
             >;
         };
 	
