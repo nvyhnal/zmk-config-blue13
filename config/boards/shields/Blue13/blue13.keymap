@@ -62,6 +62,6 @@
 &kp Z	&kp X	&kp C	&kp V	&kp B	&kp N	&kp M	&kp COMMA	&kp DOT	&kp FSLH
 &kp LSHFT	&kp LALT	&lt NAV BSPC	&lt NUM_SYM SPACE	&kp COLON	&kp RET
 		>;
-		}
-    ;
+		};
+    };
 };
