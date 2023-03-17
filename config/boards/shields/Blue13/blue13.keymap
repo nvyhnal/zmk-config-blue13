@@ -63,5 +63,5 @@
 &kp LSHFT	&kp LALT	&lt NAV BSPC	&lt NUM_SYM SPACE	&kp COLON	&kp RET
 		>;
 		}
-    };
+    ;
 };
