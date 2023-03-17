@@ -1,0 +1,6 @@
+if SHIELD_BLUE13
+
+config ZMK_KEYBOARD_NAME
+		default "blue13"
+		
+endif
